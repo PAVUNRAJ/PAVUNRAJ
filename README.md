@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a custom keyboard app & language learning app**
  
- 🌱 I’m currently learning **SwiftUI, Cocoa, Skiptool**
+ 🌱 I’m currently learning **Core ML, Cocoa, Skiptool**
 
  💬 Ask me about **Swift, SwiftUI, Firebase, MongoDB... or anything [here](https://github.com/PAVUNRAJ/PAVUNRAJ/issues)**
 
