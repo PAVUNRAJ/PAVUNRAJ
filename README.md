@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a custom keyboard app & language learning app**
  
- 🌱 I’m currently learning **Core ML, Cocoa, Skiptool**
+ 🌱 I’m currently learning **,ARKit Cocoa, Skiptool**
 
- 💬 Ask me about **Swift, SwiftUI, Firebase, MongoDB... or anything [here](https://github.com/PAVUNRAJ/PAVUNRAJ/issues)**
+ 💬 Ask me about **Swift, SwiftUI, Core ML, Firebase, MongoDB... or anything [here](https://github.com/PAVUNRAJ/PAVUNRAJ/issues)**
 
  ⚡ Fun fact **Play offline games, watch mystery movies**
  
